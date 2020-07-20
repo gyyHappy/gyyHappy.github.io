@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      yy-admin 开发文档
-subtitle:   WWDC 2018 Keynote 全记录
+subtitle:   yy-admin 开发文档
 date:       2020-7-20
 author:     阿塬
 header-img: img/post-bg-cook.jpg
