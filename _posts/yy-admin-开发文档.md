@@ -8,8 +8,8 @@ header-img: img/post-bg-cook.jpg
 catalog: true
 tags:
     - Java
-	- SpringBoot
-	- Redis
+    - SpringBoot
+    - Redis
 ---
 
 # yy-admin 开发文档
